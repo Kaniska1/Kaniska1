@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaniska</h1>
-<h3 align="center">I am B.Tech student in Computer Science and Engineering and am enthusiastic about learning about AI, Machine Learning and Data Science.</h3>
+<h3 align="center">I am B.Tech student in Computer Science and Engineering and am enthusiastic about learning about AI, Machine Learning, Data Science and Cloud Computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaniska1&label=Profile%20views&color=ff3300&style=flat" alt="kaniska1" /> </p>
 
