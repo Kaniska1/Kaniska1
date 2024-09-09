@@ -21,4 +21,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Kaniska1&icon=5&color=1)](https://visitcount.itsvg.in)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kaniska1?theme=dark&font=Baloo%20Da%202)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
