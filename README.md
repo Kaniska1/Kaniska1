@@ -18,8 +18,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kaniska1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+
+# 📊 Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kaniska1?theme=dark&font=Baloo%20Da%202)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Kaniska1&icon=5&color=1)](https://visitcount.itsvg.in)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kaniska1?theme=dark&font=Baloo%20Da%202)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
