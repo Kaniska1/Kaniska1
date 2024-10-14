@@ -22,7 +22,6 @@
 # 📊 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Kaniska1?theme=dark&font=Baloo%20Da%202)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Kaniska1}&theme={black}" alt="LeetCode Badges"/>
 ---
 [![](https://visitcount.itsvg.in/api?id=Kaniska1&icon=5&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
