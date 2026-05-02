@@ -21,3 +21,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kaniska1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+<a href="https://github.com/Kaniska1">
+  <img src="https://komarev.com/ghpvc/?username=Apurba2509&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+</a>
+
