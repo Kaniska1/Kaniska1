@@ -4,8 +4,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">I am a B.Tech student in Computer Science and Engineering and am enthusiastic about learning about AI, Machine Learning and Data Science.</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=08D9B5&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad;AI%2C+ML+and+Web3+Enthusiast)](https://git.io/typing-svg)
 ###
 
 <h5 data-importer="text" align="left">🌱 I'm currently learning Python, Data Science, Artificial Intelligence & Machine Learning<br>💬Ask me about Java, Python, C, SQL</h5>
@@ -111,7 +110,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="52" height="40/>
           
   </a>
-  <a href="kaniska.mitra@gmail.com" target="_blank">
+  <<a href="mailto:kaniska.mitra@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -134,7 +133,10 @@
 
 </div>
 
-
+<br>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Kaniska1?theme=dark&font=Cabin" alt="LeetCode Stats" />
+</div>
 
 ###
 
