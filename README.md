@@ -2,9 +2,10 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&text=Hello!%20Kaniska%20here!&fontSize=70&fontColor=3CB371&fontAlign=50&fontAlignY=46&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
 
-###
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=08D9B5&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad;AI%2C+ML+and+Web3+Enthusiast)](https://git.io/typing-svg)
+<div align="center">
+    <img style="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=08D9B5&center=true&vCenter=true&width=435&lines=Computer+Science+Undergrad;AI%2C+ML+and+Web3+Enthusiast)](https://git.io/typing-svg"
+</div>
+  
 ###
 
 <h5 data-importer="text" align="left">🌱 I'm currently learning Python, Data Science, Artificial Intelligence & Machine Learning<br>💬Ask me about Java, Python, C, SQL</h5>
