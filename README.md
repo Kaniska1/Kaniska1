@@ -105,19 +105,33 @@
   <a href="https://x.com/JustKaniskaTbh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="kaniska.mitra@gmail.com" target="_blank">
+  <a href="mailto:kaniska.mitra@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Kaniska1/Kaniska1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Kaniska1/Kaniska1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Kaniska1&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Kaniska1/Kaniska1/trophy-output/trophy.svg?theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Kaniska1/Kaniska1/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Kaniska1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Kaniska1&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kaniska1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=ishita-pathak&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
+<br>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Kaniska1&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaniska1&theme=tokyo-night&hide_border=true&area=true" />
+
+<br>
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Kaniska1&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
 </div>
 
 ###
