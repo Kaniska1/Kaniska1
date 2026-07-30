@@ -114,23 +114,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Kaniska1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaniska1&theme=gotham" />
 
 <br><br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kaniska1&theme=tokyonight&hide_border=false" />
-</p>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaniska1&theme=gotham" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaniska1&theme=gotham" />
 
 <br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kaniska1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaniska1&theme=gotham" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaniska1&theme=gotham&utcOffset=5.5" />
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kaniska1/Kaniska1/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+
 
 ###
 
