@@ -114,11 +114,17 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Kaniska1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Kaniska1&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kaniska1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=ishita-pathak&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<div align="center">
 
+<img src="https://github-readme-stats.shion.dev/api?username=Kaniska1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Kaniska1&theme=tokyonight&hide_border=false" />
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kaniska1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 <br>
 
@@ -126,6 +132,9 @@
 
 <br>
 
+</div>
+
+<br>
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaniska1&theme=tokyo-night&hide_border=true&area=true" />
 
 <br>
@@ -134,17 +143,29 @@
 
 </div>
 
-###
+
 
 <br clear="both">
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaniska1/Kaniska1/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaniska1/Kaniska1/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaniska1/Kaniska1/pacman-output/pacman-contribution-graph.svg?game=pacman">
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Kaniska1/Kaniska1/output/pacman-contribution-graph-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Kaniska1/Kaniska1/output/pacman-contribution-graph.svg">
+
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/Kaniska1/Kaniska1/output/pacman-contribution-graph.svg">
+
 </picture>
 
-###
+</div>
 
 <h4 data-importer="text" align="center">Profile views:</h4>
 
