@@ -126,12 +126,6 @@
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kaniska1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-<br>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Kaniska1&theme=tokyonight&hide_border=true" />
-
-<br>
-
 </div>
 
 <br>
