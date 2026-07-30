@@ -105,22 +105,22 @@
   <a href="https://x.com/JustKaniskaTbh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="mailto:kaniska.mitra@gmail.com" target="_blank">
+  <a href="kaniska.mitra@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=Kaniska1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Kaniska1&theme=tokyonight&hide_border=false" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kaniska1&theme=tokyonight&hide_border=false" />
+</p>
 
 <br>
 
@@ -128,38 +128,21 @@
 
 </div>
 
-<br>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaniska1&theme=tokyo-night&hide_border=true&area=true" />
-
-<br>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Kaniska1&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kaniska1/Kaniska1/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-
+###
 
 <br clear="both">
 
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Kaniska1/Kaniska1/output/pacman-contribution-graph-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Kaniska1/Kaniska1/output/pacman-contribution-graph.svg">
-
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/Kaniska1/Kaniska1/output/pacman-contribution-graph.svg">
-
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaniska1/Kaniska1/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaniska1/Kaniska1/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaniska1/Kaniska1/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-</div>
+###
 
 <h4 data-importer="text" align="center">Profile views:</h4>
 
