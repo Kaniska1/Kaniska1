@@ -126,13 +126,13 @@
 <br><br>
 
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Kaniska1&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true" />
+<img width="46.4%" src="https://github-readme-stats.shion.dev/api?username=Kaniska1&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true" />
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaniska1&layout=compact&theme=gotham&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Kaniska1&theme=gotham&hide_border=true" />
 
 <br>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=Kaniska1&theme=gotham&hide_border=true" />
+<img width="55%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaniska1&layout=compact&theme=gotham&hide_border=true" />
 
 
 
