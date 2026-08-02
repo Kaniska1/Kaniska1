@@ -118,23 +118,31 @@
 
 ###
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaniska1&theme=gotham" />
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaniska1&theme=gotham&hide_border=true&area=true" />
 <br><br>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaniska1&theme=gotham" />
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaniska1&theme=gotham" />
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Kaniska1&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaniska1&layout=compact&theme=gotham&hide_border=true" />
 
 <br>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kaniska1&theme=gotham" />
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kaniska1&theme=gotham&utcOffset=5.5" />
+<img width="60%" src="https://streak-stats.demolab.com?user=Kaniska1&theme=gotham&hide_border=true" />
+
+
+
+
 
 </div>
 
 <br>
+
+
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Kaniska1?theme=dark&font=Cabin" alt="LeetCode Stats" />
 </div>
