@@ -122,30 +122,25 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaniska1&theme=gotham&hide_border=true&area=true" />
-<br><br>
-
-
-<img width="46.4%" src="https://github-readme-stats.shion.dev/api?username=Kaniska1&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Kaniska1&theme=gotham&hide_border=true" />
-
-<br>
-
-<img width="55%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaniska1&layout=compact&theme=gotham&hide_border=true" />
-
-
-
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaniska1&theme=gotham&hide_border=true&area=true" />
+  <br><br>
+  <img width="46.4%" src="https://github-readme-stats.shion.dev/api?username=Kaniska1&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true" />
+  <img width="35.4%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaniska1&layout=compact&theme=gotham&hide_border=true" />
 
 </div>
-
 <br>
 
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Kaniska1?theme=dark&font=Cabin" alt="LeetCode Stats" />
-</div>
+| Project                                                                  | Description                                                                                                                                         | Stack                                                     | Achievements / Notes                                    |
+| :----------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------- | :------------------------------------------------------ |
+| **[MindSnap](https://github.com/Kaniska1/MindSnap)**                     | An AI-powered microlearning platform that converts lengthy content into swipeable learning cards, quizzes and focused study sessions.               | Next.js, TypeScript, Tailwind CSS, Gemini API             | 🏆 2nd Overall & Civic Tech Runner-up @ Hack4Bengal 4.0 |
+| **[Stockify](https://github.com/Kaniska1/Stockify)**                     | A stock market management system for buying, selling and monitoring stocks with portfolio, wallet and transaction management.                       | Next.js, Node.js, Express.js, MongoDB, JWT                | Full-stack FinTech Project                              |
+| **[Valecta](https://github.com/Kaniska1/Valecta-StatusCode2)**           | An AI-powered recruitment platform featuring resume analysis, certificate verification and intelligent voice/video interviews.                      | Next.js, JavaScript, Flask, Appwrite, AI APIs             | Finalist @ StatusCode 2 Hackathon                        |
+| **[Coordina](https://github.com/Kaniska1/Coordina)**                     | An urban infrastructure coordination platform designed to identify conflicts between public development projects and improve inter-agency planning. | Next.js, JavaScript, Tailwind CSS                         | Finalist @ Smart India Hackathon                           |
+| **[SealiX](https://github.com/Kaniska1/SealiX)**                         | A decentralized skill passport for issuing, managing and verifying blockchain-based academic and professional credentials.                          | Next.js, TypeScript, MongoDB, Solidity, Wagmi, RainbowKit | Finalist @ Smart Bengal Hackathon 2025               |
+| **[YouTube to Spotify](https://github.com/Kaniska1/youtube-to-spotify)** | An automation tool that transfers songs from a YouTube playlist into a Spotify playlist using platform APIs.                                        | Python, YouTube Data API, Spotify Web API, OAuth 2.0      | API Automation Project                                  |
+
 
 ###
 
@@ -156,15 +151,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaniska1/Kaniska1/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaniska1/Kaniska1/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-
-<h4 data-importer="text" align="center">Profile views:</h4>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:Kaniska1?theme=3d-num&padding=4&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
