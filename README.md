@@ -8,10 +8,6 @@
   
 ###
 
-<h5 data-importer="text" align="left">🌱 I'm currently learning Python, Data Science, Artificial Intelligence & Machine Learning<br>💬Ask me about Java, Python, C, SQL</h5>
-
-###
-
 <h2 data-importer="text" align="left">💻  Tech Stack:</h2>
 
 ###
@@ -53,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
@@ -96,7 +92,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">🌐 Socials:</h2>
+<h2 data-importer="text" align="left">🌐 Connect with me:</h2>
 
 ###
 
