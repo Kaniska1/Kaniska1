@@ -138,7 +138,13 @@
 | **[YouTube to Spotify](https://github.com/Kaniska1/youtube-to-spotify)** | An automation tool that transfers songs from a YouTube playlist into a Spotify playlist using platform APIs.                                        | Python, YouTube Data API, Spotify Web API, OAuth 2.0      | API Automation Project                                  |
 
 
-###
+
+<h2 data-importer="text" align="left">Github Trophies:</h2>
+
+
+  [![trophy](https://github-trophies.vercel.app/?username=Kaniska1&row=1&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/Kaniska1/github-trophies)
+
+
 
 <br clear="both">
 
