@@ -131,19 +131,22 @@
 | Project                                                                  | Description                                                                                                                                         | Stack                                                     | Achievements / Notes                                    |
 | :----------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------- | :------------------------------------------------------ |
 | **[MindSnap](https://github.com/Kaniska1/MindSnap)**                     | An AI-powered microlearning platform that converts lengthy content into swipeable learning cards, quizzes and focused study sessions.               | Next.js, TypeScript, Tailwind CSS, Gemini API             | 🏆 2nd Overall & Civic Tech Runner-up @ Hack4Bengal 4.0 |
+| **[Coordina](https://github.com/Kaniska1/Coordina)**                     | An urban infrastructure coordination platform designed to identify conflicts between public development projects and improve inter-agency planning. | Next.js, JavaScript, Tailwind CSS                         | Finalist @ Smart India Hackathon                        |
+| **[Memento](https://github.com/Kaniska1/memento)**                       | A personal film companion with film tracking, Letterboxd imports and a hybrid recommendation engine that learns from viewing history and feedback.   | Next.js, TypeScript, MongoDB, Flask, scikit-learn, TMDB   | Hybrid ML Recommendation System                         |
 | **[Stockify](https://github.com/Kaniska1/Stockify)**                     | A stock market management system for buying, selling and monitoring stocks with portfolio, wallet and transaction management.                       | Next.js, Node.js, Express.js, MongoDB, JWT                | Full-stack FinTech Project                              |
-| **[Valecta](https://github.com/Kaniska1/Valecta-StatusCode2)**           | An AI-powered recruitment platform featuring resume analysis, certificate verification and intelligent voice/video interviews.                      | Next.js, JavaScript, Flask, Appwrite, AI APIs             | Finalist @ StatusCode 2 Hackathon                        |
-| **[Coordina](https://github.com/Kaniska1/Coordina)**                     | An urban infrastructure coordination platform designed to identify conflicts between public development projects and improve inter-agency planning. | Next.js, JavaScript, Tailwind CSS                         | Finalist @ Smart India Hackathon                           |
-| **[SealiX](https://github.com/Kaniska1/SealiX)**                         | A decentralized skill passport for issuing, managing and verifying blockchain-based academic and professional credentials.                          | Next.js, TypeScript, MongoDB, Solidity, Wagmi, RainbowKit | Finalist @ Smart Bengal Hackathon 2025               |
+| **[Valecta](https://github.com/Kaniska1/Valecta-StatusCode2)**           | An AI-powered recruitment platform featuring resume analysis, certificate verification and intelligent voice/video interviews.                      | Next.js, JavaScript, Flask, Appwrite, AI APIs             | Finalist @ StatusCode 2 Hackathon                       |
+| **[SealiX](https://github.com/Kaniska1/SealiX)**                         | A decentralized skill passport for issuing, managing and verifying blockchain-based academic and professional credentials.                          | Next.js, TypeScript, MongoDB, Solidity, Wagmi, RainbowKit | Finalist @ Smart Bengal Hackathon 2025                  |
 | **[YouTube to Spotify](https://github.com/Kaniska1/youtube-to-spotify)** | An automation tool that transfers songs from a YouTube playlist into a Spotify playlist using platform APIs.                                        | Python, YouTube Data API, Spotify Web API, OAuth 2.0      | API Automation Project                                  |
 
 
 
-<h2 data-importer="text" align="left">Github Trophies:</h2>
+<h2 data-importer="text" align="left">🏆 Github Trophies:</h2>
 
+<div align="center">
+  
+[![trophy](https://github-trophies.vercel.app/?username=Kaniska1&row=1&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/Kaniska1/github-trophies)
 
-  [![trophy](https://github-trophies.vercel.app/?username=Kaniska1&row=1&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/Kaniska1/github-trophies)
-
+</div>
 
 
 <br clear="both">
